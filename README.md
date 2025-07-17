@@ -1,14 +1,17 @@
 # Breeze style edit 
 
 
+<img width="1697" height="1190" alt="Screenshot_20250717_184645 cleaned" src="https://github.com/user-attachments/assets/70d639fd-8d10-4618-8e2a-9213c8cf0ab1" />
 
-<img width="1697" height="1190" alt="Screenshot_20250717_184645" src="https://github.com/user-attachments/assets/ee86d9c3-f3ee-49a6-8d14-c28d8f6a9a58" />
 
-<img width="1749" height="1365" alt="Screenshot_20250717_184909" src="https://github.com/user-attachments/assets/c6e6da30-9921-46c7-b162-d5cd92e45a00" />
+<img width="1697" height="1190" alt="Screenshot_20250717_185009 cleaned" src="https://github.com/user-attachments/assets/cdf602dc-3762-4aff-a414-a1f06a4319d0" />
 
-<img width="1749" height="1365" alt="Screenshot_20250717_184946" src="https://github.com/user-attachments/assets/22a53727-bacd-4a01-a771-51536795a41a" />
 
-<img width="1697" height="1190" alt="Screenshot_20250717_185009" src="https://github.com/user-attachments/assets/ee736777-0a60-4f77-810e-7dacaa210b9d" />
+<img width="1697" height="1190" alt="Screenshot_20250717_184645 cleaned" src="https://github.com/user-attachments/assets/e4525786-ba45-4585-aeec-a99094248a21" />
+
+
+<img width="1749" height="1365" alt="Screenshot_20250717_184909 cleaned" src="https://github.com/user-attachments/assets/0d255637-2951-48ed-8c19-8e7f9b16d855" />
+
 
 
 
@@ -29,7 +32,8 @@ This repository contains many parts of Breeze, such as:
 If you can't find what you're looking for, it may exist in another repository instead:
 
 * [Breeze Icons](https://invent.kde.org/frameworks/breeze-icons) contains the icon set used in Plasma.
-* [libplasma](https://invent.kde.org/plasma/libplasma/-/tree/master/src/desktoptheme) includes the [Plasma Style](https://develop.kde.org/docs/plasma/theme/) that affects the visuals for the Plasma panel and widgets.
+* [libplasma](https://invent.kde.org/plasma/libplasma/-/tree/master/src/desktoptheme) includes the [Plasma Style](https://develop.kde.org/docs/plasma/theme/) that affects the visuals for the Plasma panel and widgets.<img width="1749" height="1365" alt="Screenshot_20250717_184909 cleaned" src="https://github.com/user-attachments/assets/ef0f282e-9c96-4f66-98cf-02d3df039548" />
+
 * The [Breeze SDDM theme](https://invent.kde.org/plasma/plasma-desktop/-/tree/master/sddm-theme) lives within the Plasma Desktop repository, adjacent to the lock screen.
 * [Plasma Workspace Wallpapers](https://invent.kde.org/plasma/plasma-workspace-wallpapers) contains the rest of the default wallpapers shipped with Plasma.
 * [Breeze for GTK](https://invent.kde.org/plasma/breeze-gtk) is the Breeze [GTK](https://gtk.org/) theme.
