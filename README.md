@@ -3,15 +3,11 @@
 
 <img width="1697" height="1190" alt="Screenshot_20250717_184645 cleaned" src="https://github.com/user-attachments/assets/70d639fd-8d10-4618-8e2a-9213c8cf0ab1" />
 
-
 <img width="1697" height="1190" alt="Screenshot_20250717_185009 cleaned" src="https://github.com/user-attachments/assets/cdf602dc-3762-4aff-a414-a1f06a4319d0" />
-
-
-<img width="1697" height="1190" alt="Screenshot_20250717_184645 cleaned" src="https://github.com/user-attachments/assets/e4525786-ba45-4585-aeec-a99094248a21" />
-
 
 <img width="1749" height="1365" alt="Screenshot_20250717_184909 cleaned" src="https://github.com/user-attachments/assets/0d255637-2951-48ed-8c19-8e7f9b16d855" />
 
+<img width="1749" height="1365" alt="Screenshot_20250717_184946 cleaned" src="https://github.com/user-attachments/assets/38d07db7-7792-4b38-8a94-e2d597b242fd" />
 
 
 
