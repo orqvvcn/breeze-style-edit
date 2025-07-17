@@ -1,0 +1,221 @@
+{
+	"BUILD_DIR" : "/home/andre/breeze-edit/build/kdecoration/config/kcm_breezedecoration_autogen",
+	"CMAKE_BINARY_DIR" : "/home/andre/breeze-edit/build",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/andre/breeze-edit/build/kdecoration/config",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/andre/breeze-edit/kdecoration/config",
+	"CMAKE_EXECUTABLE" : "/usr/bin/cmake",
+	"CMAKE_LIST_FILES" : 
+	[
+		"/home/andre/breeze-edit/kdecoration/config/CMakeLists.txt",
+		"/home/andre/breeze-edit/kdecoration/breezesettings.kcfgc"
+	],
+	"CMAKE_SOURCE_DIR" : "/home/andre/breeze-edit",
+	"CROSS_CONFIG" : false,
+	"DEP_FILE" : "/home/andre/breeze-edit/build/kdecoration/config/kcm_breezedecoration_autogen/deps",
+	"DEP_FILE_RULE_NAME" : "kcm_breezedecoration_autogen/timestamp",
+	"HEADERS" : 
+	[
+		[
+			"/home/andre/breeze-edit/kdecoration/breezeexceptionlist.h",
+			"Mu",
+			"4BW3YPOFTP/moc_breezeexceptionlist.cpp",
+			null
+		],
+		[
+			"/home/andre/breeze-edit/kdecoration/config/breezeconfigwidget.h",
+			"Mu",
+			"EWIEGA46WW/moc_breezeconfigwidget.cpp",
+			null
+		],
+		[
+			"/home/andre/breeze-edit/kdecoration/config/breezedetectwidget.h",
+			"Mu",
+			"EWIEGA46WW/moc_breezedetectwidget.cpp",
+			null
+		],
+		[
+			"/home/andre/breeze-edit/kdecoration/config/breezeexceptiondialog.h",
+			"Mu",
+			"EWIEGA46WW/moc_breezeexceptiondialog.cpp",
+			null
+		],
+		[
+			"/home/andre/breeze-edit/kdecoration/config/breezeexceptionlistwidget.h",
+			"Mu",
+			"EWIEGA46WW/moc_breezeexceptionlistwidget.cpp",
+			null
+		],
+		[
+			"/home/andre/breeze-edit/kdecoration/config/breezeexceptionmodel.h",
+			"Mu",
+			"EWIEGA46WW/moc_breezeexceptionmodel.cpp",
+			null
+		],
+		[
+			"/home/andre/breeze-edit/kdecoration/config/breezeitemmodel.h",
+			"Mu",
+			"EWIEGA46WW/moc_breezeitemmodel.cpp",
+			null
+		]
+	],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "/home/andre/breeze-edit/build/kdecoration/config/kcm_breezedecoration_autogen/include",
+	"MOC_COMPILATION_FILE" : "/home/andre/breeze-edit/build/kdecoration/config/kcm_breezedecoration_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : 
+	[
+		"KCOREADDONS_LIB",
+		"KGUIADDONS_LIB",
+		"KPLUGINFACTORY_PLUGIN_CLASS_INTERNAL_NAME=kcm_breezedecoration_factory",
+		"QT_CORE_LIB",
+		"QT_DBUS_LIB",
+		"QT_GUI_LIB",
+		"QT_NETWORK_LIB",
+		"QT_QMLINTEGRATION_LIB",
+		"QT_QML_LIB",
+		"QT_WIDGETS_LIB",
+		"TRANSLATION_DOMAIN=\"breeze_kwin_deco\"",
+		"_GNU_SOURCE",
+		"_LARGEFILE64_SOURCE",
+		"kcm_breezedecoration_EXPORTS"
+	],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		],
+		[
+			"K_PLUGIN_FACTORY_WITH_JSON",
+			"[\n^][ \t]*K_PLUGIN_FACTORY_WITH_JSON[ \t\n]*\\([^,]*,[ \t\n]*\"([^\"]+)\""
+		],
+		[
+			"K_PLUGIN_CLASS_WITH_JSON",
+			"[\n^][ \t]*K_PLUGIN_CLASS_WITH_JSON[ \t\n]*\\([^,]*,[ \t\n]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"/home/andre/breeze-edit/build/kdecoration/config",
+		"/home/andre/breeze-edit/kdecoration/config",
+		"/home/andre/breeze-edit/libbreezecommon",
+		"/home/andre/breeze-edit/build/libbreezecommon",
+		"/home/andre/breeze-edit/kdecoration",
+		"/home/andre/breeze-edit/build/kdecoration",
+		"/usr/include/qt6/QtCore",
+		"/usr/include/qt6",
+		"/usr/lib/qt6/mkspecs/linux-g++",
+		"/usr/include/qt6/QtGui",
+		"/usr/include/qt6/QtDBus",
+		"/usr/include/KF6/KConfig",
+		"/usr/include/KF6/KConfigCore",
+		"/usr/include/KF6/KCoreAddons",
+		"/usr/include/KF6/KGuiAddons",
+		"/usr/include/KF6/KI18n",
+		"/usr/include/KF6/KIconThemes",
+		"/usr/include/KF6/KCMUtils",
+		"/usr/include/qt6/QtWidgets",
+		"/usr/include/KF6/KConfigWidgets",
+		"/usr/include/KF6/KWidgetsAddons",
+		"/usr/include/KF6/KConfigGui",
+		"/usr/include/KF6/KColorScheme",
+		"/usr/include/KF6/KCMUtilsQuick",
+		"/usr/include/qt6/QtQml",
+		"/usr/include/qt6/QtQmlIntegration",
+		"/usr/include/qt6/QtNetwork",
+		"/usr/include/KF6/KCMUtilsCore",
+		"/usr/include",
+		"/usr/include/c++/15.1.1",
+		"/usr/include/c++/15.1.1/x86_64-pc-linux-gnu",
+		"/usr/include/c++/15.1.1/backward",
+		"/usr/lib/gcc/x86_64-pc-linux-gnu/15.1.1/include",
+		"/usr/local/include",
+		"/usr/lib/gcc/x86_64-pc-linux-gnu/15.1.1/include-fixed"
+	],
+	"MOC_MACRO_NAMES" : 
+	[
+		"Q_OBJECT",
+		"Q_GADGET",
+		"Q_NAMESPACE",
+		"Q_NAMESPACE_EXPORT",
+		"Q_GADGET_EXPORT",
+		"Q_ENUM_NS",
+		"K_PLUGIN_FACTORY",
+		"K_PLUGIN_CLASS",
+		"K_PLUGIN_FACTORY_WITH_JSON",
+		"K_PLUGIN_CLASS_WITH_JSON"
+	],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : false,
+	"MOC_PREDEFS_CMD" : 
+	[
+		"/usr/bin/c++",
+		"-std=gnu++20",
+		"-w",
+		"-dM",
+		"-E",
+		"/usr/share/cmake/Modules/CMakeCXXCompilerABI.cpp"
+	],
+	"MOC_PREDEFS_FILE" : "/home/andre/breeze-edit/build/kdecoration/config/kcm_breezedecoration_autogen/moc_predefs.h",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : 
+	[
+		"/home/andre/breeze-edit/build/kdecoration/config/breezesettings.cpp",
+		"/home/andre/breeze-edit/build/kdecoration/config/breezesettings.h",
+		"/home/andre/breeze-edit/build/kdecoration/config/ui_breezeconfigurationui.h",
+		"/home/andre/breeze-edit/build/kdecoration/config/ui_breezeexceptiondialog.h",
+		"/home/andre/breeze-edit/build/kdecoration/config/ui_breezeexceptionlistwidget.h"
+	],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 14,
+	"PARSE_CACHE_FILE" : "/home/andre/breeze-edit/build/kdecoration/config/CMakeFiles/kcm_breezedecoration_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "/usr/lib/qt6/moc",
+	"QT_UIC_EXECUTABLE" : "",
+	"QT_VERSION_MAJOR" : 6,
+	"QT_VERSION_MINOR" : 9,
+	"SETTINGS_FILE" : "/home/andre/breeze-edit/build/kdecoration/config/CMakeFiles/kcm_breezedecoration_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[
+			"/home/andre/breeze-edit/kdecoration/breezeexceptionlist.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/home/andre/breeze-edit/kdecoration/config/breezeconfigwidget.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/home/andre/breeze-edit/kdecoration/config/breezedetectwidget.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/home/andre/breeze-edit/kdecoration/config/breezeexceptiondialog.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/home/andre/breeze-edit/kdecoration/config/breezeexceptionlistwidget.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/home/andre/breeze-edit/kdecoration/config/breezeexceptionmodel.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/home/andre/breeze-edit/kdecoration/config/breezeitemmodel.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/home/andre/breeze-edit/kdecoration/config/kcm_breezedecoration.cpp",
+			"Mu",
+			null
+		]
+	],
+	"USE_BETTER_GRAPH" : true,
+	"VERBOSITY" : 0
+}

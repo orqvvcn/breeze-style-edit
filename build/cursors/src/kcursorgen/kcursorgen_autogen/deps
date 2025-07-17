@@ -1,0 +1,7 @@
+kcursorgen_autogen/timestamp: \
+	/home/andre/breeze-edit/cursors/src/kcursorgen/CMakeLists.txt \
+	/home/andre/breeze-edit/cursors/src/kcursorgen/kcursorgen.cpp \
+	/home/andre/breeze-edit/cursors/src/kcursorgen/kcursorgen.h \
+	/home/andre/breeze-edit/cursors/src/kcursorgen/main.cpp \
+	/usr/share/ECM/modules/ECMMarkNonGuiExecutable.cmake \
+	/usr/bin/cmake

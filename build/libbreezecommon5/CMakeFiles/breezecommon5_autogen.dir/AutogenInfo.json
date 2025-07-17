@@ -1,0 +1,99 @@
+{
+	"BUILD_DIR" : "/home/andre/breeze-edit/build/libbreezecommon5/breezecommon5_autogen",
+	"CMAKE_BINARY_DIR" : "/home/andre/breeze-edit/build",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/andre/breeze-edit/build/libbreezecommon5",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/andre/breeze-edit/libbreezecommon",
+	"CMAKE_EXECUTABLE" : "/usr/bin/cmake",
+	"CMAKE_LIST_FILES" : [ "/home/andre/breeze-edit/libbreezecommon/CMakeLists.txt" ],
+	"CMAKE_SOURCE_DIR" : "/home/andre/breeze-edit",
+	"CROSS_CONFIG" : false,
+	"DEP_FILE" : "/home/andre/breeze-edit/build/libbreezecommon5/breezecommon5_autogen/deps",
+	"DEP_FILE_RULE_NAME" : "breezecommon5_autogen/timestamp",
+	"HEADERS" : 
+	[
+		[
+			"/home/andre/breeze-edit/libbreezecommon/breezeboxshadowrenderer.h",
+			"Mu",
+			"EWIEGA46WW/moc_breezeboxshadowrenderer.cpp",
+			null
+		]
+	],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "/home/andre/breeze-edit/build/libbreezecommon5/breezecommon5_autogen/include",
+	"MOC_COMPILATION_FILE" : "/home/andre/breeze-edit/build/libbreezecommon5/breezecommon5_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : [ "QT_CORE_LIB", "QT_GUI_LIB", "_GNU_SOURCE", "_LARGEFILE64_SOURCE" ],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		],
+		[
+			"K_PLUGIN_FACTORY_WITH_JSON",
+			"[\n^][ \t]*K_PLUGIN_FACTORY_WITH_JSON[ \t\n]*\\([^,]*,[ \t\n]*\"([^\"]+)\""
+		],
+		[
+			"K_PLUGIN_CLASS_WITH_JSON",
+			"[\n^][ \t]*K_PLUGIN_CLASS_WITH_JSON[ \t\n]*\\([^,]*,[ \t\n]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"/home/andre/breeze-edit/build/libbreezecommon5",
+		"/home/andre/breeze-edit/libbreezecommon",
+		"/usr/include/qt",
+		"/usr/include/qt/QtCore",
+		"/usr/lib/qt/mkspecs/linux-g++",
+		"/usr/include/qt/QtGui",
+		"/usr/include/c++/15.1.1",
+		"/usr/include/c++/15.1.1/x86_64-pc-linux-gnu",
+		"/usr/include/c++/15.1.1/backward",
+		"/usr/lib/gcc/x86_64-pc-linux-gnu/15.1.1/include",
+		"/usr/local/include",
+		"/usr/lib/gcc/x86_64-pc-linux-gnu/15.1.1/include-fixed",
+		"/usr/include"
+	],
+	"MOC_MACRO_NAMES" : 
+	[
+		"Q_OBJECT",
+		"Q_GADGET",
+		"Q_NAMESPACE",
+		"Q_NAMESPACE_EXPORT",
+		"K_PLUGIN_FACTORY",
+		"K_PLUGIN_CLASS",
+		"K_PLUGIN_FACTORY_WITH_JSON",
+		"K_PLUGIN_CLASS_WITH_JSON"
+	],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : false,
+	"MOC_PREDEFS_CMD" : 
+	[
+		"/usr/bin/c++",
+		"-std=gnu++20",
+		"-w",
+		"-dM",
+		"-E",
+		"/usr/share/cmake/Modules/CMakeCXXCompilerABI.cpp"
+	],
+	"MOC_PREDEFS_FILE" : "/home/andre/breeze-edit/build/libbreezecommon5/breezecommon5_autogen/moc_predefs.h",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : [],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 14,
+	"PARSE_CACHE_FILE" : "/home/andre/breeze-edit/build/libbreezecommon5/CMakeFiles/breezecommon5_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "/usr/bin/moc",
+	"QT_UIC_EXECUTABLE" : "",
+	"QT_VERSION_MAJOR" : 5,
+	"QT_VERSION_MINOR" : 15,
+	"SETTINGS_FILE" : "/home/andre/breeze-edit/build/libbreezecommon5/CMakeFiles/breezecommon5_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[
+			"/home/andre/breeze-edit/libbreezecommon/breezeboxshadowrenderer.cpp",
+			"Mu",
+			null
+		]
+	],
+	"USE_BETTER_GRAPH" : false,
+	"VERBOSITY" : 0
+}

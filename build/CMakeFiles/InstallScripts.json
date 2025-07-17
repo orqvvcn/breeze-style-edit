@@ -1,0 +1,23 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/andre/breeze-edit/build/cmake_install.cmake",
+		"/home/andre/breeze-edit/build/kstyle5/cmake_install.cmake",
+		"/home/andre/breeze-edit/build/libbreezecommon5/cmake_install.cmake",
+		"/home/andre/breeze-edit/build/kstyle6/cmake_install.cmake",
+		"/home/andre/breeze-edit/build/kstyle6/config/cmake_install.cmake",
+		"/home/andre/breeze-edit/build/libbreezecommon6/cmake_install.cmake",
+		"/home/andre/breeze-edit/build/misc/cmake_install.cmake",
+		"/home/andre/breeze-edit/build/misc/qtcurvepreset/cmake_install.cmake",
+		"/home/andre/breeze-edit/build/kdecoration/cmake_install.cmake",
+		"/home/andre/breeze-edit/build/kdecoration/config/cmake_install.cmake",
+		"/home/andre/breeze-edit/build/wallpapers/cmake_install.cmake",
+		"/home/andre/breeze-edit/build/colors/cmake_install.cmake",
+		"/home/andre/breeze-edit/build/cursors/cmake_install.cmake",
+		"/home/andre/breeze-edit/build/cursors/src/cmake_install.cmake",
+		"/home/andre/breeze-edit/build/cursors/src/kcursorgen/cmake_install.cmake",
+		"/home/andre/breeze-edit/build/cursors/Breeze/cmake_install.cmake",
+		"/home/andre/breeze-edit/build/cursors/Breeze_Light/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

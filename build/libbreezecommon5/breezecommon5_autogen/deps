@@ -1,0 +1,5 @@
+breezecommon5_autogen/timestamp: \
+	/home/andre/breeze-edit/libbreezecommon/CMakeLists.txt \
+	/home/andre/breeze-edit/libbreezecommon/breezeboxshadowrenderer.cpp \
+	/home/andre/breeze-edit/libbreezecommon/breezeboxshadowrenderer.h \
+	/usr/bin/cmake
