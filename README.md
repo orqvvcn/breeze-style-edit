@@ -1,4 +1,16 @@
-# Breeze
+# Breeze style edit 
+
+
+
+<img width="1697" height="1190" alt="Screenshot_20250717_184645" src="https://github.com/user-attachments/assets/ee86d9c3-f3ee-49a6-8d14-c28d8f6a9a58" />
+
+<img width="1749" height="1365" alt="Screenshot_20250717_184909" src="https://github.com/user-attachments/assets/c6e6da30-9921-46c7-b162-d5cd92e45a00" />
+
+<img width="1749" height="1365" alt="Screenshot_20250717_184946" src="https://github.com/user-attachments/assets/22a53727-bacd-4a01-a771-51536795a41a" />
+
+<img width="1697" height="1190" alt="Screenshot_20250717_185009" src="https://github.com/user-attachments/assets/ee736777-0a60-4f77-810e-7dacaa210b9d" />
+
+
 
 Breeze is the default style for [Plasma](https://kde.org/plasma-desktop/). This repository contains some parts of Breeze such as the cursors, wallpapers, and the application style.
 
